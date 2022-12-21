@@ -1,4 +1,4 @@
- ![logo](https://github.com/Devchawla2608/Devchawla2608/blob/main/GithubBanner.jpg)
+ ![logo](https://github.com/Devchawla2608/Devchawla2608/blob/main/GithubBanner1.jpg)
  <h1 align="center">Hi 👋, I'm Deepanshu Chawla</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
