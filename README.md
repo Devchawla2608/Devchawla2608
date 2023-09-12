@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain and NFT**
 
-- 👨‍💻 All of my projects are available at [https://deepanshuchawla.netlify.app/](https://deepanshuchawla.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://deepanshuchawlaportfolio.netlify.app/](https://deepanshuchawlaportfolio.netlify.app/)
 
 - 💬 Ask me about **React , Node , Solidity**
 
